@@ -1,0 +1,18 @@
+{
+	"name": "erwininteractive/neuralnetwork",
+	"description": "simple feed forward neural network for deep learning",
+	"type": "project",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"NeuralNetwork\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Andrew S Erwin",
+			"email": "andrewerwin73@gmail.com"
+		}
+	],
+	"require": {}
+}
